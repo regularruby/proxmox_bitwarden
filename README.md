@@ -14,7 +14,7 @@ Tested on ProxMox v7 & Bitwarden 2022.12.0
 SSH to your ProxMox server as a privileged user and run...
 
 ```shell
-bash -c "$(wget --no-cache -qLO - https://raw.githubusercontent.com/noofny/proxmox_bitwarden/master/setup.sh)"
+bash -c "$(wget --no-cache -qLO - https://raw.githubusercontent.com/regularruby/proxmox_bitwarden/master/setup.sh)"
 ```
 
 ## Installation Questions
